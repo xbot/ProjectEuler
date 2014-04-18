@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My practices of ProjectEuler.net
+Here are my exercises on projecteuler.net
