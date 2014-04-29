@@ -1,0 +1,20 @@
+Lexicographic permutations
+==========================
+
+A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of 0, 1 and 2 are:
+
+012   021   102   120   201   210
+
+What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
+
+Note
+----
+
+I'm the 57181st person to have solved this problem.
+
+Nice work, donie, you've just advanced to Level 1.
+61264 members (15.9%) have made it this far.
+
+You have earned 1 new award:
+
+The Journey Begins: Progress to Level 1 by solving twenty-five problems
